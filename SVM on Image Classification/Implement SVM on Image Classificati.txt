@@ -1,0 +1,5 @@
+Implement SVM on Image Classification:
+
+Images are attached. Test data are in the separate folder
+
+Sample code: https://www.kaggle.com/code/ashutoshvarma/image-classification-using-svm-92-accuracy
